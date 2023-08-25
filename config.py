@@ -1,20 +1,20 @@
 # Telegram App KEY and HASH this vars are important
-API_KEY = 
-API_HASH = 
+API_KEY = 28101700
+API_HASH = f92c75e6916e846ee35e2f60f42318fb
 
 
 # Userbot Session String this var is important
-STRING_SESSION = 
+STRING_SESSION = 1BVtsOJkBu0R9m5oxx7uCEFRKh6K3BWfAj84bx5JG9VhKRWoIvroPhnm9PtqevJlv4mEbm2U_P5xPoSEzCwLnKFU3O1kZYRTitgfNWZZvm2D9NPdjRDncviP6EjVzXGRpa5COb8PiDvr42up0ZgInzBkWCKYO_4BV1fIQM5XxzkQCI6F0UM5CoTibL-f0CJPA8nSSKkUFSeyl3yBnIvSMgdJwGpdaZFrxmqTCO4tjV0sJs6wgcUpjuhcFYV3HmiHU6uSEZLIXHGqISXp5OtUzubPSMNBiiPJPUa8vssyIbq7aZx7jFTkBEapxQ3bGhlGDcY0xiWSKSgZRxoNw1I96Sgd8ulhuK60=
 
 # Logging channel/group ID configuration. this var is important
-BOTLOG_CHATID = 
+BOTLOG_CHATID = -1001911416845
 
 # Userbot logging feature switch.
-BOTLOG = True or False
-LOGSPAMMER = True or False
+BOTLOG = True
+LOGSPAMMER = True
 
 # Bleep Blop, this is a bot ;)
-PM_AUTO_BAN = True or False
+PM_AUTO_BAN = True
 
 # Heroku Credentials for updater. this vars are important
 HEROKU_MEMEZ = True or False
@@ -37,7 +37,7 @@ REPO_LINK = https://github.com/ximfine/XBot-Remix.git
 CONSOLE_LOGGER_VERBOSE = False
 
 # SQL Database URI
-DB_URI = no need to change this value
+DB_URI = postgres://ifetqveo:4EaoepzUs1K3XWEI7Ntl7MXWwgNSHWDQ@castor.db.elephantsql.com/ifetqveo
 
 # OCR API key
 OCR_SPACE_API_KEY = 
